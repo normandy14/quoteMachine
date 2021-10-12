@@ -7,7 +7,13 @@ The user can cycle through randomized quotes by interacting with the 'new quote'
 
 ![Quote](https://github.com/normandy14/quoteMachine/blob/main/quoteScreenShot.png?raw=true)
 
-# Bootstrap
+## Getting Started
+
+Files (js, css, html, etc) that directly interact with React library are in src folder.
+File that React updates is index.html file in public folder
+
+
+## Bootstrap
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
