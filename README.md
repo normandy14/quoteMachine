@@ -1,8 +1,17 @@
-# Getting Started with Create React App
+# Quote Machine
+
+A react app that displays randomize quotes into a react component.
+The user can cycle through randomized quotes by interacting with the 'new quote' button
+
+## Screen Shot
+
+![Quote](https://github.com/normandy14/quoteMachine/blob/main/quoteScreenShot.png?raw=true)
+
+# Bootstrap
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Npm Scripts
 
 In the project directory, you can run:
 
