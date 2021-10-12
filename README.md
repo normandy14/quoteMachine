@@ -3,7 +3,7 @@
 A react app that displays randomize quotes into a react component.
 The user can cycle through randomized quotes by interacting with the 'new quote' button
 
-## Screen Shot
+## Screenshot
 
 ![Quote](https://github.com/normandy14/quoteMachine/blob/main/quoteScreenShot.png?raw=true)
 
@@ -77,3 +77,15 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## Versioning
+
+:card_index: We use [Git](https://gist.github.com/derhuerst/1b15ff4652a867391f03) for versioning.
+
+## Authors
+
+* :ocean: **Normandy14** - *Initial work* - [Github Account](https://github.com/Normandy14)
+
+## License
+
+:newspaper: This project is licensed under the GNU General Public License - see the [LICENSE.md](LICENSE.md) file for details.
